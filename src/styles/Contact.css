@@ -1,0 +1,38 @@
+ul{
+  width: 30%;
+  
+ 
+}
+li{
+  margin: 10px 20px;
+  text-align: center;
+  font-weight: 900;
+  width: 300px;
+
+}
+
+h3{
+  color: purple;
+  margin: 138px 30px 30px 30px !important;
+  font-weight: 700 !important;
+  font-size: 40px;
+  width: 80%;
+
+}
+.map{
+  margin: 150px 50px !important;
+
+}
+@media only screen and (max-width: 480px) {
+li{
+margin-left: -50px !important;
+}
+h3{
+  margin-left: -40px !important;
+  width: 150% !important;
+}
+.map{
+  width: 180% !important;
+  margin-left: -85px !important; 
+}
+}

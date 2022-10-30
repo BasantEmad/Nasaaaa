@@ -1,0 +1,18 @@
+
+
+.navbar-expand-lg .navbar-collapse{
+  padding: 20px ;
+
+}
+.navbar-expand-lg{
+
+ background: linear-gradient(to left , purple , wheat 70%);
+}
+.navbar-brand{
+  font-weight: 900;
+  font-size: 25px !important;
+}
+.nav-link{
+  font-weight: 700 !important;
+  color: rgb(90, 39, 138) !important;
+}
